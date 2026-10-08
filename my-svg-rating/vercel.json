@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/moon/:rating", "destination": "/api/moon?rating=:rating" }
-  ]
-}
