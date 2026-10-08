@@ -1,0 +1,7 @@
+{
+  "name": "svg-moon-rating",
+  "version": "1.0.0",
+  "description": "Servicio de calificación con lunas en SVG para Markdown",
+  "main": "api/moon.js",
+  "dependencies": {}
+}
